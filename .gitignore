@@ -1,0 +1,41 @@
+# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Unity package manager
+/[Pp]ackages/*/*.asmdef
+/[Pp]ackages/*/*.meta
+
+# Visual Studio / Rider generated files
+/*.csproj
+/*.sln
+/*.sln.iml
+/.idea/
+/*.suo
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Crash reports
+sys_crashes/
+
+# Unity crash handler
+/[Uu]nity[Ee]ditor[Cc]rash[Rr]eport*/
+
+# Other
+*.cache
+*.bak
+*.stackdump
